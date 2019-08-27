@@ -1,0 +1,124 @@
+{
+  "regions": [
+    {
+      "name": "Praha",
+      "districts": ["Praha"]
+    },
+    {
+      "name": "Středočeský",
+      "districts": [
+        "Benešov",
+        "Beroun",
+        "Kladno",
+        "Kolín",
+        "Kutná Hora",
+        "Mělník",
+        "Mladá Boleslav",
+        "Nymburk",
+        "Praha-východ",
+        "Praha-západ",
+        "Příbram",
+        "Rakovník"
+      ]
+    },
+    {
+      "name": "Jihočeský",
+      "districts": [
+        "České Budějovice",
+        "Český Krumlov",
+        "Jindřichův Hradec",
+        "Písek",
+        "Prachatice",
+        "Strakonice",
+        "Tábor"
+      ]
+    },
+    {
+      "name": "Plzeňský",
+      "districts": [
+        "Domažlice",
+        "Klatovy",
+        "Plzeň-jih",
+        "Plzeň-město",
+        "Plzeň-sever",
+        "Rokycany",
+        "Tachov"
+      ]
+    },
+    {
+      "name": "Karlovarský",
+      "districts": ["Cheb", "Karlovy Vary", "Sokolov"]
+    },
+    {
+      "name": "Ústecký",
+      "districts": [
+        "Děčín",
+        "Chomutov",
+        "Litoměřice",
+        "Louny",
+        "Most",
+        "Teplice",
+        "Ústí nad Labem"
+      ]
+    },
+    {
+      "name": "Liberecký",
+      "districts": ["Česká Lípa", "Jablonec nad Nisou", "Liberec", "Semily"]
+    },
+    {
+      "name": "Královéhradecký",
+      "districts": [
+        "Hradec Králové",
+        "Jičín",
+        "Náchod",
+        "Rychnov nad Kněžnou",
+        "Trutnov"
+      ]
+    },
+    {
+      "name": "Pardubický",
+      "districts": ["Chrudim", "Pardubice", "Svitavy", "Ústí nad Orlicí"]
+    },
+    {
+      "name": "Vysočina",
+      "districts": [
+        "Havlíčkův Brod",
+        "Jihlava",
+        "Pelhřimov",
+        "Třebíč",
+        "Žďár nad Sázavou"
+      ]
+    },
+    {
+      "name": "Jihomoravský",
+      "districts": [
+        "Blansko",
+        "Brno-město",
+        "Brno-venkov",
+        "Břeclav",
+        "Hodonín",
+        "Vyškov",
+        "Znojmo"
+      ]
+    },
+    {
+      "name": "Olomoucký",
+      "districts": ["Jeseník", "Olomouc", "Prostějov", "Přerov", "Šumperk"]
+    },
+    {
+      "name": "Moravskoslezský",
+      "districts": [
+        "Bruntál",
+        "Frýdek-Místek",
+        "Karviná",
+        "Nový Jičín",
+        "Opava",
+        "Ostrava-město"
+      ]
+    },
+    {
+      "name": "Zlínský",
+      "districts": ["Kroměříž", "Uherské Hradiště", "Vsetín", "Zlín"]
+    }
+  ]
+}
