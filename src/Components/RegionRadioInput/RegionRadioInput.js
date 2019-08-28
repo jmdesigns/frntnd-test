@@ -4,16 +4,17 @@ export default class RegionRadioInput extends Component {
   render() {
     return (
       <div className = 'radio-container'>
-        <label className="radio" onChange={this.onRegionChange}>
-          <span className="radio-box" />
+        <div className = 'radio'>
           <input
+            id = {this.props.value}
             className="radio-button"
             type="radio"
             name={this.props.name}
             defaultChecked={this.props.currentRegion === this.props.value}
+            onChange = {this.onRegionChange}
           />
-          {this.props.value}
-        </label>
+          <label className = 'radio-label' htmlFor = {this.props.value}>{this.props.value}</label>
+        </div>
       </div>
     );
   }

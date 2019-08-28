@@ -9,7 +9,7 @@ export default class DistrictSelector extends Component {
         <div className = 'selector'>
           {this.props.list.map((area, index) => (
             <DistrictRadioInput
-              key={index}
+              key={area}
               value={area}
               name={this.props.group}
               selected = {index === 0}

@@ -2,7 +2,7 @@ import React from 'react';
 
 import SelectorContainer from './Components/SelectorContainer/SelectorContainer';
 
-import './Styles/main.scss';
+import './Style/main.scss';
 
 function App() {
   return (
